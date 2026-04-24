@@ -55,8 +55,7 @@ python consumer_notification.py
 This project is open-source and available for use under the MIT License.
 
 ## Author
-
-[Your Name] - [Your GitHub Profile]
+Manne Vaishnavi
 
 
 
